@@ -1,0 +1,22 @@
+ body { background-color: #ccaa66;
+		text-align: center;
+		color:#0000ff
+ }
+ 
+ img { height:300px;
+	   width:300px;
+ }
+ 
+ footer {
+	   text-align:center;
+	   background-color:#ccaa66;
+	   margin:auto;
+     border-bottom:3px solid navy;
+ }
+ 
+ div {
+	    width:100%;
+		margin:auto;
+		border:3px solid navy;
+		overflow:auto;
+ }
